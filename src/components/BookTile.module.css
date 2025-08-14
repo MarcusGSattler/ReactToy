@@ -1,0 +1,20 @@
+/* BookTile.module.css */
+.title {
+  font-family: 'Palatino', serif;
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #FFD700;
+}
+
+.subtitle {
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #EEE;
+}
+
+.titleBar {
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.6);
+}
