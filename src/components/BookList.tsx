@@ -9,11 +9,11 @@ interface BookListProps {
 
 export default function BookList({ books }: BookListProps) {
   const localImages = [
-    '/resources/book1.png',
-    '/resources/book2.png',
-    '/resources/book3.png',
-    '/resources/book4.png',
-    '/resources/book5.png',
+    'resources/book1.png',
+    'resources/book2.png',
+    'resources/book3.png',
+    'resources/book4.png',
+    'resources/book5.png',
   ];
 
   return (

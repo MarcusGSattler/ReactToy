@@ -1,9 +1,9 @@
 {
   
   "type": "module",
-  "name": "react-book-gallery",
+  "name": "reactbookapp",
   "version": "1.0.0",
-  "homepage": "https://MarcusGSattler.github.io/react-book-gallery",
+  "homepage": "https://MarcusGSattler.github.io/ReactToy",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
